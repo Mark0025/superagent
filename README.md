@@ -2,6 +2,12 @@
 
 # Superagent 🥷
 
+## About
+- **What it is:** A copy of Superagent, an open-source framework for building AI assistants.
+- **Business:** learning
+- **Status:** inactive since 2023-09
+- **Source:** agent research 2026-11-04
+
 ### The open framework for for building AI Assistants
 
 <p>
